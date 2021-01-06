@@ -10,6 +10,7 @@ public class Ctr1 {
 	public String name1="张三";
 	
 	public String name2="李四";
+	public String name3="aaa";
 	
 	@RequestMapping("/aa")
 	public String aa(){
